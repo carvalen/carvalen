@@ -29,3 +29,6 @@ const webDevelopment = {
  code:[JavaScript,CSS,HTML 5,React],
  tools:[NodeJS,Express,MongoDB]
 }
+
+### Some projects👇
+FriendlyPlants (http://friendlyplants.herokuapp.com/)
