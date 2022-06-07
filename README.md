@@ -31,6 +31,4 @@ const webDevelopment = {
 }
 ```
 
-### Some projects👇
-FriendlyPlants (http://friendlyplants.herokuapp.com/)<br>
-Save the Skydiver! (https://carvalen.github.io/plane-game/)
+
