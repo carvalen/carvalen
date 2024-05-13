@@ -1,7 +1,7 @@
 <h1> Hi there, I'm Carmen!👋</h1> 
 
 ### Who am I?
-<p>🚀I'm a recently graduated junior full-stack web developer, I am a curious person and always willing to keep learning. In my free time I like reading, painting and take care of my plants🌱 </p>
+<p>🚀I'm a software backend engineer at Openbank. I develope with Java language. I am a curious person and always willing to keep learning. In my free time I like reading, painting and take care of my plants🌱 </p>
 
 ### Things I code with
 
